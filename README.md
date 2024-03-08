@@ -31,5 +31,5 @@ Clone the repository to your local machine:
    
 ### Starting the Game
 To start the game, run:
-  python3 CchessMain.py
+  `python3 CchessMain.py`
 
