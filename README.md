@@ -27,7 +27,7 @@ Before you can run the game, you'll need to have Python and pygame installed on 
 
 ### Installation
 Clone the repository to your local machine:
-   git clone https://github.com/Dylannni/ChineseChess_XiangQi.git
+    `git clone https://github.com/Dylannni/ChineseChess_XiangQi.git`
    
 ### Starting the Game
 To start the game, run:
